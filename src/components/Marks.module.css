@@ -1,0 +1,14 @@
+pre {
+    font-size: 7em;
+}
+
+.marks .state {
+    fill: #431ccebb;
+    stroke: #eeeeee8a;
+    stroke-width: .7px;
+
+}
+
+.marks .interiors {
+    fill: none;
+}

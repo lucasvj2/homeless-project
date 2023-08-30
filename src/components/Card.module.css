@@ -1,0 +1,39 @@
+.card {
+    border-top: 1px solid rgb(211, 211, 211);
+    margin-bottom: 10px;
+    /* width: fit-content; */
+    max-width: 700px;
+    overflow-x: hidden;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text {
+    margin: 30px;
+}
+
+.link {
+    color: blue;
+    text-decoration: underline;
+    word-break: break-all;
+}
+
+.horizontalDiv {
+    display: flex;
+    max-width: 100vw;
+    padding-right: 10px;
+}
+
+.img {
+    align-self: center;
+    width: 100px;
+    min-width: 70px;
+}
+
+.icon {
+    margin-top: -56px;
+    margin-left: 2px;
+}
